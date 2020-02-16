@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Communication-Style-Inventory/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Communication-Style-Inventory/static/js/main.12a24fd6.chunk.js",
+    "main.js.map": "/Communication-Style-Inventory/static/js/main.12a24fd6.chunk.js.map",
+    "runtime-main.js": "/Communication-Style-Inventory/static/js/runtime-main.f9879129.js",
+    "runtime-main.js.map": "/Communication-Style-Inventory/static/js/runtime-main.f9879129.js.map",
+    "static/css/2.67123b20.chunk.css": "/Communication-Style-Inventory/static/css/2.67123b20.chunk.css",
+    "static/js/2.c056e600.chunk.js": "/Communication-Style-Inventory/static/js/2.c056e600.chunk.js",
+    "static/js/2.c056e600.chunk.js.map": "/Communication-Style-Inventory/static/js/2.c056e600.chunk.js.map",
+    "index.html": "/Communication-Style-Inventory/index.html",
+    "precache-manifest.b609fc0ba242c57152d636fb7078ed50.js": "/Communication-Style-Inventory/precache-manifest.b609fc0ba242c57152d636fb7078ed50.js",
+    "service-worker.js": "/Communication-Style-Inventory/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/Communication-Style-Inventory/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Communication-Style-Inventory/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c056e600.chunk.js.LICENSE.txt": "/Communication-Style-Inventory/static/js/2.c056e600.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9879129.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.c056e600.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.12a24fd6.chunk.js"
+  ]
+}
