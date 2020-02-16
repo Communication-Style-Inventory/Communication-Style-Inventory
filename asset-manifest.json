@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Communication-Style-Inventory/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Communication-Style-Inventory/static/js/main.7df484b2.chunk.js",
-    "main.js.map": "/Communication-Style-Inventory/static/js/main.7df484b2.chunk.js.map",
+    "main.js": "/Communication-Style-Inventory/static/js/main.f2443a39.chunk.js",
+    "main.js.map": "/Communication-Style-Inventory/static/js/main.f2443a39.chunk.js.map",
     "runtime-main.js": "/Communication-Style-Inventory/static/js/runtime-main.f9879129.js",
     "runtime-main.js.map": "/Communication-Style-Inventory/static/js/runtime-main.f9879129.js.map",
     "static/css/2.67123b20.chunk.css": "/Communication-Style-Inventory/static/css/2.67123b20.chunk.css",
-    "static/js/2.e6a6f9f1.chunk.js": "/Communication-Style-Inventory/static/js/2.e6a6f9f1.chunk.js",
-    "static/js/2.e6a6f9f1.chunk.js.map": "/Communication-Style-Inventory/static/js/2.e6a6f9f1.chunk.js.map",
+    "static/js/2.9ecacc2e.chunk.js": "/Communication-Style-Inventory/static/js/2.9ecacc2e.chunk.js",
+    "static/js/2.9ecacc2e.chunk.js.map": "/Communication-Style-Inventory/static/js/2.9ecacc2e.chunk.js.map",
     "index.html": "/Communication-Style-Inventory/index.html",
-    "precache-manifest.b06bf4e422ea1049faee9dbba3998da2.js": "/Communication-Style-Inventory/precache-manifest.b06bf4e422ea1049faee9dbba3998da2.js",
+    "precache-manifest.4d0cee79bbf379b18ba638512f621f17.js": "/Communication-Style-Inventory/precache-manifest.4d0cee79bbf379b18ba638512f621f17.js",
     "service-worker.js": "/Communication-Style-Inventory/service-worker.js",
     "static/css/2.67123b20.chunk.css.map": "/Communication-Style-Inventory/static/css/2.67123b20.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/Communication-Style-Inventory/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.e6a6f9f1.chunk.js.LICENSE.txt": "/Communication-Style-Inventory/static/js/2.e6a6f9f1.chunk.js.LICENSE.txt"
+    "static/js/2.9ecacc2e.chunk.js.LICENSE.txt": "/Communication-Style-Inventory/static/js/2.9ecacc2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f9879129.js",
     "static/css/2.67123b20.chunk.css",
-    "static/js/2.e6a6f9f1.chunk.js",
+    "static/js/2.9ecacc2e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.7df484b2.chunk.js"
+    "static/js/main.f2443a39.chunk.js"
   ]
 }
